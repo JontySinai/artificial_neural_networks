@@ -4,3 +4,6 @@ data/*
 
 # IPython
 **/.ipynb_checkpoints/
+
+# vscode
+**/.DS_Store
