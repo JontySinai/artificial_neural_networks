@@ -4,6 +4,6 @@ This is a personal project containing implementations of various types of artifi
 
 The approach is to write simple, reproducible and easily readable implementations of each type of neural network.
 
->"The fast surgeon measures twice, but cuts onces." - Paul Kalanithi
+>"The fast surgeon measures twice, but cuts once." - Paul Kalanithi
 
 Any suggestions or ideas will be welcome.
